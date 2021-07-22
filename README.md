@@ -13,19 +13,16 @@ Impairment, see Sorrentino et al. for details).
 Functional Connectomes matrices are obtained through Phase Linearity
 Measurement (PLM) (Baselice et al., 2019), here only reported in the Alpha band.
 
-%% PLEASE NOTE: For privacy reasons, we could not use the same data as in Sorrentino et al. 
-%% Hence, the sample results reported here do not correspond to the original manuscript, instead they are merely illustrative of the methodology.
-%% Please contact giuseppe.sorrentino@uniparthenope.it for 
-%% (reasonably) requesting the original sample connectomes of the manuscript.
-%% The data used in this code come from healthy MEG connectomes obtained from Human Connectome Project dataset (see Sareen et al., NeuroImage 2021, for details).
+*PLEASE NOTE: For privacy reasons, we could not use the same data as in Sorrentino et al. 
+Hence, the sample results reported here do not correspond to the original manuscript, instead they are merely illustrative of the methodology.
+Please contact giuseppe.sorrentino@uniparthenope.it for (reasonably) requesting the original sample connectomes of the manuscript.
+The data used in this code come from healthy MEG connectomes obtained from Human Connectome Project dataset (see Sareen et al., NeuroImage 2021, for details).
 
-%% Authors: Emahnuel TROISI LOPEZ, Pierpaolo SORRENTINO & Enrico AMICO 
-% version 1.0. July 01, 2021
-%
-%% PLEASE CITE US!
-% If you are using this code for your research, please kindly cite us:
+**Authors: Emahnuel TROISI LOPEZ, Pierpaolo SORRENTINO & Enrico AMICO
+ version 1.0. July 01, 2021
 
-% Authors: Sorrentino P, Rucco R, Lardone A, Liparoti M, Lopez ET, Cavaliere C, Soricelli A, Jirsa V, Sorrentino G, Amico E.
-% Title: Clinical connectome fingerprints of cognitive decline.
-% Published on: NeuroImage - 2021 Jun 9, p. 118253.
-% Doi: doi.org/10.1016/j.neuroimage.2021.118253
+**PLEASE CITE US! If you are using this code for your research, please kindly cite us:
+Authors: Sorrentino P, Rucco R, Lardone A, Liparoti M, Lopez ET, Cavaliere C, Soricelli A, Jirsa V, Sorrentino G, Amico E.
+Title: Clinical connectome fingerprints of cognitive decline.
+Published on: NeuroImage - 2021 Jun 9, p. 118253.
+Doi: doi.org/10.1016/j.neuroimage.2021.118253**
