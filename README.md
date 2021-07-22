@@ -1,8 +1,6 @@
 # Clinical_fingerprinting
 Sample code for reproducing the analysis reported in Sorrentino et al. "Clinical connectome fingerprints of cognitive decline", NeuroImage 2021.
 
-Batch example of the Clinical Connectome Fingerprint analysis, proposed in  (Sorrentino P. et al., Neuroimage 2021), to compute identifiability in clinical populations.
-
 The code compares two functional connectome (FC) acquisitions/sessions for each subject (defined as test and retest)
 contained in the sample dataset (data_test_FC) and give as result an "identifiabilty matrix" (Amico & Goñi, Scientific Reports 2018). Its main diagonal (top left to bottom right) highlights the self-identifiability (Iself) of the sample, i.e. the similarity between the test and retest FC of the same subject. The remaining elements consists in the comparison between test and retest FC of different subjects (Iothers).
 
