@@ -9,7 +9,7 @@ Clinical connetome fingerprinting extends this idea by comparing individual conn
 *PLEASE NOTE: For privacy reasons, we could not use the same data as in Sorrentino et al. 
 Hence, the sample results reported here do not correspond to the original manuscript, instead they are merely illustrative of the methodology.
 Please contact giuseppe.sorrentino@uniparthenope.it for (reasonably) requesting the original sample connectomes of the manuscript.
-The data used in this code come from healthy MEG connectomes obtained from Human Connectome Project dataset (see Sareen et al., NeuroImage 2021, for details).*
+The data used in this code come from healthy MEG connectomes obtained from the Human Connectome Project dataset (see Sareen et al., NeuroImage 2021, for details).*
 
 Authors: Emahnuel TROISI LOPEZ, Pierpaolo SORRENTINO & Enrico AMICO
  version 1.0. July 01, 2021
