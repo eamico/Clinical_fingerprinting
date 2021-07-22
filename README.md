@@ -11,7 +11,7 @@ Hence, the sample results reported here do not correspond to the original manusc
 Please contact giuseppe.sorrentino@uniparthenope.it for (reasonably) requesting the original sample connectomes of the manuscript.
 The data used in this code come from healthy MEG connectomes obtained from Human Connectome Project dataset (see Sareen et al., NeuroImage 2021, for details).*
 
-**Authors: Emahnuel TROISI LOPEZ, Pierpaolo SORRENTINO & Enrico AMICO
+Authors: Emahnuel TROISI LOPEZ, Pierpaolo SORRENTINO & Enrico AMICO
  version 1.0. July 01, 2021
 
 **PLEASE CITE US! If you are using this code for your research, please kindly cite us:
